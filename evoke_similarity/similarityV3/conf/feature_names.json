@@ -1,0 +1,10 @@
+{
+    "shape"    : "shape" ,
+    "texture"    : "texture" ,
+    "color"    : "color" ,
+    "SIFT"    : "SIFT" ,
+    "SURF"    : "SURF" ,
+    "KAZE"    : "KAZE" ,
+    "Dense"    : "Dense"
+
+}

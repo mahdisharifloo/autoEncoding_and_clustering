@@ -1,0 +1,5 @@
+{
+  "csv_path"    : "category-women-bags_after.csv" ,
+  "global_features" :   ["shape","texture","color","edge" ]    ,
+  "local_features" : ["SIFT","SURF","ORB","BRIEF","KAZE","Dense"]
+}

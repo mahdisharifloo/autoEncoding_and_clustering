@@ -1,0 +1,5 @@
+{
+  "csv_path"    : "image_data.csv" ,
+  "global_features" :   ["shape","texture","color","edge" ]    ,
+  "local_features" : ["SIFT","SURF","ORB","BRIEF","KAZE","Dense"]
+}
